@@ -6,11 +6,15 @@ public class LoginTests {
     @BeforeClass
     public void preCondition() {
         // open browser
+        // open site
     }
 
     @Test
     public void loginSuccess() {
-
+        // open form
+        // fill email
+        // fill password
+        // submit
     }
 
     @Test
